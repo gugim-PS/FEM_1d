@@ -1,1 +1,2 @@
-# fem_1d
+# 1 dimetional poisson's problem by FEM
+ff
