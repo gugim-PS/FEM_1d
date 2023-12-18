@@ -4,7 +4,7 @@ Solution with python to solve
 
 ![Poisson`s equation](https://latex.codecogs.com/gif.latex?x%5E%7Ba%7D)
 
-$ p(h)= P(K) $
+- $ p(h)= P(K) $
 
 ## Reference
 Polycarpou, Anastasis C. Introduction to the finite element method in electromagnetics. Springer Nature, 2022.
