@@ -2,7 +2,7 @@
 
 Solution with python to solve
 
-# Reference
+## Reference
 Polycarpou, Anastasis C. Introduction to the finite element method in electromagnetics. Springer Nature, 2022.
 
 
