@@ -3,7 +3,7 @@
 Solution with python to solve
 
 **Poisson`s equation**
-$$ d^2 \dx^2V(x) = $\rho$_0 \over (&epsilon_0*\&epsilon_r)$$
+$$ d^2 \dx^2V(x) = r_0 \over (a_0*\a_r)$$
 
 ## Reference
 Polycarpou, Anastasis C. Introduction to the finite element method in electromagnetics. Springer Nature, 2022.
